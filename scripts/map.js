@@ -130,7 +130,7 @@ $(window).on('load', function() {
           .bindPopup("<b>" + point['Name'] + '</b><br>' +
           (point['Image'] ? ('<img src="' + point['Image'] + '"><br>') : '') +
           (point['Temperature'] ? ('Temperatur: ' + point['Temperature'] + '<br>') : '') +
-          (point['Last Updated'] ? ('Senast uppdaterad: ' + point['Last Updated']) + '<br>') : ''));
+          (point['Last Updated'] ? ('Senast uppdaterad: ' + point['Last Updated']) : ''));
 
         if (layers !== undefined && layers.length !== 1) {
           marker.addTo(layers[point.Group]);
