@@ -5,7 +5,7 @@ Customize Leaflet maps with a linked Google Sheets template or CSV files and Geo
 
 ## Live links (replace with your own)
 - Leaflet Map https://andreaslindstrom-ntm.github.io/badplatstemperaturer-eskilstuna/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1cGZsy54FK_mCWPTkwKjP77x6xIWHloqmTLH1hJCWbNI/edit#gid=0
+- Google Sheets template https://docs.google.com/spreadsheets/d/1cGZsy54FK_mCWPTkwKjP77x6xIWHloqmTLH1hJCWbNI/
 
 ## Create your own
 See step-by-step tutorial in *Hands-On Data Visualization* https://handsondataviz.org/leaflet-maps-with-google-sheets.html
