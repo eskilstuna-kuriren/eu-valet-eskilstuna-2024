@@ -4,7 +4,7 @@ Customize Leaflet maps with a linked Google Sheets template or CSV files and Geo
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map https://andreaslindstrom-ntm.github.io/badplatstemperaturer-eskilstuna/
+- Leaflet Map https://andreaslindstrom-ntm.github.io/eu-valet-eskilstuna-2024
 - Google Sheets template https://docs.google.com/spreadsheets/d/1BVPdackIne3gBuBznV4fdPi68jOGFiK6aEns7ke4NA0/edit#gid=603666405
 
 ## Create your own
