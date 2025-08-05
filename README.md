@@ -4,7 +4,7 @@ Customize Leaflet maps with a linked Google Sheets template or CSV files and Geo
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map https://andreaslindstrom-ntm.github.io/eu-valet-eskilstuna-2024
+- Leaflet Map https://eskilstuna-kuriren.github.io/eu-valet-eskilstuna-2024/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1dW13lTsHOhuaTkDk5TM4aFKL9weedfDmYTb5BOGvX90/edit?gid=0#gid=0
 
 ## Create your own
